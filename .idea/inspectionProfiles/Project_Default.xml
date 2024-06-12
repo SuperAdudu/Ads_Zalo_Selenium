@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="sys" />
+          <option value="time" />
+          <option value="Invoice.bin.Debug.main.Invoice.xml" />
+          <option value="json" />
+          <option value="Invoice.bin.Debug.main.Invoice.aspose" />
+          <option value="capchaTool.aspose" />
+          <option value="capchaTool.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -1,0 +1,12 @@
+[14520:724:0408/092350.596:WARNING:chrome_main_delegate.cc(740)] This is Chrome version 123.0.6312.106 (not a warning)
+[14520:724:0408/092350.653:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[14520:724:0408/092350.653:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[14520:724:0408/092351.316:INFO:CONSOLE(38)] "User logged", source: https://chat.zalo.me/ (38)
+[14520:724:0408/092351.416:INFO:CONSOLE(1)] "[ZLL]: Console logging disabled", source: https://zalo-chat-static.zadn.vn/v1/lazy/web-startup.c7d6fd3d052a2b3c7603.js (1)
+[14520:724:0408/092351.761:INFO:CONSOLE(1)] "%cDừng lại! color:red; font-size:60px; font-weight: bold; -webkit-text-stroke: 1px var(--text-primary);", source: https://zalo-chat-static.zadn.vn/v1/lazy/default-embed-web-startup.d632983e50b8f546df28.js (1)
+[14520:724:0408/092351.761:INFO:CONSOLE(1)] "%cĐây là một tính năng của trình duyệt dành cho các nhà phát triển. Nếu ai đó bảo bạn sao chép-dán nội dung nào đó vào đây để bật một tính năng của Zalo hoặc "hack" tài khoản của người khác, thì đó là hành vi lừa đảo và sẽ khiến họ có thể truy cập vào tài khoản Zalo của bạn. font-size: 18px;", source: https://zalo-chat-static.zadn.vn/v1/lazy/default-embed-web-startup.d632983e50b8f546df28.js (1)
+[14520:724:0408/092351.761:INFO:CONSOLE(1)] "%cTruy cập https://zalo.me/faq.html để biết thêm thông tin. font-size: 18px;", source: https://zalo-chat-static.zadn.vn/v1/lazy/default-embed-web-startup.d632983e50b8f546df28.js (1)
+[14520:724:0408/092351.839:INFO:CONSOLE(0)] "Fetch event handler is recognized as no-op. No-op fetch handler may bring overhead during navigation. Consider removing the handler if possible.", source:  (0)
+[14520:724:0408/092352.085:INFO:CONSOLE(1)] "Uncaught (in promise) not support", source: https://zalo-chat-static.zadn.vn/v1/lazy/default-embed-web-startup.d632983e50b8f546df28.js (1)
+[14520:724:0408/092357.614:INFO:CONSOLE(0)] "Uncaught (in promise) undefined", source: https://chat.zalo.me/ (0)
+[14520:724:0408/092414.848:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
